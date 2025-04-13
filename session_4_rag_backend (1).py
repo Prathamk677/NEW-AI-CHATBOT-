@@ -33,7 +33,7 @@ def setup_api_key(api_key: str) -> None:
     genai.configure(api_key=api_key)
     print("API key configured successfully")
 
-
+#
 # ----------------------------------------
 # Section 1: Uploading PDF
 # ----------------------------------------
